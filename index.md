@@ -10,7 +10,7 @@ Student theses related to or done at QuSZIT.
 - Dániel Szabó (2021\. 05\. 21\.) MSc: [Függvény és gráftulajdonságok lokális tesztelése](/students/szabo-2021-tulajdonsag-teszteles-msc.pdf)
 - Dániel Szabó (2018\. 12\. 06\.) BSc: [Kvantuminformatika és gépi tanulás](/students/szabo-2018-kvantum-gepi-tanulas-bsc.pdf)
 - Dániel Szabó (2018\. 11\. 14\.) TDK: [Gépi tanulás és kvantuminformatika](/students/szabo-2018-gepi-tanulas-kvantum-tdk.pdf)
-- Dániel Szabó (2017\. 11\. 16\.) TDK: [Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe](/students/szabo-2017-dwave-grafelm-dwave-tdk.pdf)
+- Dániel Szabó (2017\. 11\. 16\.) TDK: [Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe](/students/szabo-2017-grafelm-dwave-tdk.pdf)
 - László Kabódi (2014\. 12\. 29\.) MSc: [Kvantumalgoritmusok véletlen bolyongással](/students/kabodi-2014-kvantum-bolyongas-msc.pdf)
 - László Kabódi (2014\. 11\. 11\.) TDK: [Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata](/students/kabodi-2014-kvantumszimulacio-gyorsitas-tdk.pdf)
 
