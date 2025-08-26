@@ -1,4 +1,6 @@
-**## Students**
+# QuSZIT
+
+## Students
 
 Student theses related to or done at QuSZIT.
 
@@ -18,9 +20,9 @@ Student theses related to or done at QuSZIT.
 
 Materials from the Quantum Algorithms seminar at QuSZIT.
 
-- András Gilyén (2023. 03. 17.): [Quantum Walks](/seminar/andras-gilyen-2023-03-17-seminar-quantum-walks.pdf)
-- András Gilyén (2023. 04. 14.): [Quantum singular value transformation](/seminar/andras-gilyen-2023-04-14-seminar-quantum-singular-value-transformation.pdf)
-- Áron Márton (2023. 11. 14.): [Efficient simulation of quantum circuits with Fermionic Linear Optics](/seminar/aron-marton-2023-11-14-seminar-efficient-simulation-of-quantum-circuits-with-fermionic-linear-optics.pdf)
-- Jakab Csatári (2023. 05. 19.): [Kvantum-bonyolultságelméleti szeparáció relációs osztályokra](/seminar/jakab-csatari-2023-05-19-seminar-kvantum-bonyolultsagelmeleti-szeparacio-relacios-osztalyokra.pdf)
-- János Asbóth (2023. 11. 14.): [How to simulate Clifford circuits](/seminar/janos-asboth-2023-11-14-seminar-clifford-szimulator.pdf)
-Tamás Kiss (2023. 09. 18.): [Rich dynamics of qubits](/seminar/tamas-kiss-2023-09-18-seminar-rich-dynamics-of-qubits.pdf)
+- András Gilyén (2023\. 03\. 17\.): [Quantum Walks](/seminar/gilyen-2023-qwalks-talk.pdf)
+- András Gilyén (2023\. 04\. 14\.): [Quantum singular value transformation](/seminar/gilyen-2023-qsvd-talk.pdf)
+- Áron Márton (2023\. 11\. 14\.): [Efficient simulation of quantum circuits with Fermionic Linear Optics](/seminar/marton-2023-qsim-fermionic-talk.pdf)
+- Jakab Csatári (2023\. 05\. 19\.): [Kvantum-bonyolultságelméleti szeparáció relációs osztályokra](/seminar/csatari-2023-kvantum-bonyelm-talk.pdf)
+- János Asbóth (2023\. 11\. 14\.): [How to simulate Clifford circuits](/seminar/asboth-2023-qsim-clifford-talk.pdf)
+- Tamás Kiss (2023\. 09\. 18\.): [Rich dynamics of qubits](/seminar/kiss-2023-qubit-dynamics-talk.pdf)
