@@ -2,6 +2,9 @@
 
 ## Publications
 
+- Friedl, Kabódi (2025): [QUBO formulation of some spanning tree related problems](/publications/friedl-kabodi-2025-qubo-spanning-tree.pdf)
+- Friedl, Nemkin (2025): [Experiments with QUBO on D-Wave](/publications/nacfk-2025-dwave.pdf)
+- Friedl, Nemkin (2023): [Simulations of quantum walks on regular graphs](/publications/friedl-nemkin-2023-qwalks.pdf)
 - Daróczy, Friedl, Kabódi, Pereszlényi, Szabó (2021): [Quantum Inspired Adaptive Boosting](/publications/dfkpsz-2021-quantum-adaptive-boosting.pdf)
 - Friedl, Kabódi (2017): [Storing the quantum Fourier operator in the QuIDD data structure](/publications/friedl-kabodi-2017-store-qft-quidd.pdf) 
 - Friedl, Kabódi (2017): [Embedding logical functions into the Chimera graph](/publications/friedl-kabodi-2017-embedding-chimera.pdf)
